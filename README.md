@@ -9,8 +9,11 @@ El resto de detalles referentes al proyecto se encuentran en la memoria entregad
 ## Autores
 
 **Miguel Ángel Medina Ramírez**
+
 **Kevin Rosales Santana**
+
 **Adrián Lorenzo Melián**
+
 **Borja Zarco Cerezo**
 
 ## Muestra del resultado
