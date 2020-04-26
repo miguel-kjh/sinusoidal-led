@@ -23,6 +23,6 @@ void loop(){
   Serial.println(time);
   rad += M_PI/10.;
   if(rad > 2*M_PI){
-  	rad = .0;
+  	rad = 0.0;
   }
 }
