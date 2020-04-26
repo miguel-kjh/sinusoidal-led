@@ -4,11 +4,14 @@
 
 # Memoria
 
-`TODO`
+El resto de detalles referentes al proyecto se encuentran en la memoria entregada.
 
 ## Autores
 
-`TODO`
+**Miguel Ángel Medina Ramírez**
+**Kevin Rosales Santana**
+**Adrián Lorenzo Melián**
+**Borja Zarco Cerezo**
 
 ## Muestra del resultado
 
@@ -19,4 +22,4 @@
 
 ## Ejecución del proyecto
 
-`TODO`
+Puede probar el funcionamiento del proyecto en esta [simulación de Tinkercad](https://www.tinkercad.com/things/hJxEGaZqIaC).
