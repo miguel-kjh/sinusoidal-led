@@ -26,3 +26,5 @@ El resto de detalles referentes al proyecto se encuentran en la memoria entregad
 ## Ejecución del proyecto
 
 Puede probar el funcionamiento del proyecto en esta [simulación de Tinkercad](https://www.tinkercad.com/things/hJxEGaZqIaC).
+
+Si no funciona el link (tiene una caducidad de 280 horas), no dude en contactarnos.
